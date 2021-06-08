@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Nonton 21</string>
+    <string name="tbmovies">Movies</string>
+    <string name="tbtvshows">Tv Shows</string>
+    <string name="tbTrend">Trending</string>
+    <string name="tbSearch">Searching</string>
+    <string name="image">image</string>
+    <string name="title">Title</string>
+    <string name="release">Release Date: %s</string>
+    <string name="play">play</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="language">Language: %s</string>
+    <string name="release_date">Release Date</string>
+    <string name="description">Description</string>
+    <string name="rating_d">RATING: %s</string>
+    <string name="duration_s">Rating: %s</string>
+    <string name="overview">Overview</string>
+    <string name="movies_relate">Movies relate :</string>
+    <string name="empty">Empty</string>
+</resources>
